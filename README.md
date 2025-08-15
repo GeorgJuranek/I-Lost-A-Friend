@@ -1,4 +1,10 @@
 # SAE Game Project Semester 3
+
+| 💡 **Conception** | 🧨 **Timeframe**                   | ⚙️ **Technical Stack** |
+|----------------|---------------------------------|---------------------|
+| Georg Juranek  | 2,5 Months<br>(SAE Sem3)     | `Unity`<br>`Narrative Design`<br>`Ragdoll Physics`<br>`Online Feature`|
+
+
 ## I Lost A Friend
 
 
@@ -14,7 +20,9 @@ The setting is deliberately surreal: the day of a funeral is told from the persp
 Playfully, the focus is on movement across floating, oversized everyday objects. A central element is the deliberate death of the character, whereby the physically simulated body remains in the space and is used to open up new paths. 
 This mechanic directly combines symbolism and interaction. At the end, an anonymous online function opens up the possibility of exchanging messages with other players.
 
-
+<p>
+  <a href="https://youtu.be/qEt21nBP_ck" target="_blank" rel="noopener noreferrer">Watch Video</a>
+</p>
 <p>
   <a href="https://georg-juranek.itch.io/i-lost-a-friend" target="_blank" rel="noopener noreferrer">Play Game</a>
 </p>
